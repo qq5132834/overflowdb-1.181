@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/overflowdb.iml" filepath="$PROJECT_DIR$/.idea/modules/overflowdb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/overflowdb-build.iml" filepath="$PROJECT_DIR$/.idea/modules/overflowdb-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/overflowdb-core.iml" filepath="$PROJECT_DIR$/.idea/modules/overflowdb-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/overflowdb-core-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/overflowdb-core-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/overflowdb-formats.iml" filepath="$PROJECT_DIR$/.idea/modules/overflowdb-formats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/overflowdb-traversal.iml" filepath="$PROJECT_DIR$/.idea/modules/overflowdb-traversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/overflowdb-traversal-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/overflowdb-traversal-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testdomains.iml" filepath="$PROJECT_DIR$/.idea/modules/testdomains.iml" />
+    </modules>
+  </component>
+</project>

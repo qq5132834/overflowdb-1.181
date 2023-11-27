@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherPath" />
+    <option name="customVMEnabled" value="true" />
+    <option name="customVMPath" value="$PROJECT_DIR$/../../../../../JVM/jdk/jdk-17_windows-x64_bin/jdk-17.0.8" />
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="converterVersion" value="1" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/core-tests" />
+            <option value="$PROJECT_DIR$/formats" />
+            <option value="$PROJECT_DIR$/project" />
+            <option value="$PROJECT_DIR$/testdomains" />
+            <option value="$PROJECT_DIR$/traversal" />
+            <option value="$PROJECT_DIR$/traversal-tests" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.9.0" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>

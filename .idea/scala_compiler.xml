@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="overflowdb-1-181_8153" />
+    <profile name="sbt 2" modules="overflowdb,overflowdb-core,overflowdb-core-tests,overflowdb-formats,overflowdb-traversal,overflowdb-traversal-tests,testdomains">
+      <option name="implicitConversions" value="true" />
+      <option name="deprecationWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-release" />
+        <parameter value="8" />
+      </parameters>
+    </profile>
+  </component>
+</project>
